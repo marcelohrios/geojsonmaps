@@ -78,6 +78,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
+        "display_name": "Mesa de centro",
         "fill": "#1100ff",
         "fill-opacity": 0.5
       },
@@ -115,6 +116,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
+        "display_name": "Poltrona",
         "fill": "#1100ff",
         "fill-opacity": 0.5
       },
@@ -152,6 +154,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
+        "display_name": "Planta",
         "fill": "#00ff11",
         "fill-opacity": 0.5
       },
@@ -189,6 +192,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
+        "display_name": "Poltrona",
         "fill": "#1100ff",
         "fill-opacity": 0.5
       },
