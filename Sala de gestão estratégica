@@ -66,7 +66,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1100ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "display_name": "Mesa"
       },
       "geometry": {
         "type": "Polygon",
@@ -119,7 +120,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff0000",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "display_name": "Televisão"
       },
       "geometry": {
         "type": "Polygon",
@@ -156,7 +158,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff0000",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "display_name": "Televisão"
       },
       "geometry": {
         "type": "Polygon",
@@ -193,7 +196,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff0000",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "display_name": "Cortina automática"
       },
       "geometry": {
         "type": "Polygon",
